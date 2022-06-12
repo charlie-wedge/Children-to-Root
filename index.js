@@ -13,7 +13,7 @@ rl.question("Please enter the root target directory: ", function(path) { // ask 
     path = path.trim();
     rl.close();
     if (!fs.existsSync(path)) { // make sure they've entered a valid path
-        console.log("Sorry, that path doesn\'t exist. Please run the script and try again.");
+        console.log("Sorry, that path doesn\'t exist. Please run the script and try again. Try remove any spaces in the folder names?");
         return;
     }
     rootPath = path;
