@@ -1,5 +1,8 @@
 # Children-to-Root
- A program which moves all files from folders into the root directory.
+ > A program which moves all files from folders into the root directory.
+ 
+ **You must have node.js installed to run this program. If you don't yet have that, you can download it here:**
+ https://nodejs.org/en/download/
  
  To run, either open `macOS.sh` or `Windows.bat`.
  
