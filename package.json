@@ -1,0 +1,12 @@
+{
+  "name": "children-to-root",
+  "version": "1.0.0",
+  "description": "A program which moves all files from folders into the root directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Charlie Wedge",
+  "license": "ISC"
+}
